@@ -65,6 +65,7 @@ This project analyzes global e-commerce sales data to uncover key business insig
 
 # Project Structure
 sales-analysis/
+
 │── sales_analysis.ipynb  
 │── global_ecommerce_sales.csv  
 │── README.md  
